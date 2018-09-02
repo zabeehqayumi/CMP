@@ -9,12 +9,18 @@ This is second line from span.
 
 
 
+<<<<<<< HEAD
 
 Forth line added from master. 
+=======
+Also third line from span.
+
+>>>>>>> Span
 
 
 
 
+<<<<<<< HEAD
 
 5th line from master. 
 
@@ -24,3 +30,9 @@ Last line from master.
 
 
 8th line from master. 
+=======
+6th line from span 
+
+
+7th line from span 
+>>>>>>> Span
